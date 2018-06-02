@@ -98,5 +98,10 @@ Copy/Paste
 	y - Yank. Example: yw (yank word)
 	p - paste after cursor
 	P - paste before cursor
+	
+Undo stuff:
+
+	u - undo
+	Ctrl+R - Redo
 
 # vim: set syn=mkd :
